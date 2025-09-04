@@ -1,0 +1,3 @@
+[submodule "ScreeApi"]
+  path = ScreeApi
+  url = https://github.com/Moluck-yt/SprigBoot
